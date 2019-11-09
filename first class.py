@@ -1,4 +1,4 @@
-a=3
-b=2
-c=a+b
+a=10
+b=5
+c= a-b
 print(c)
